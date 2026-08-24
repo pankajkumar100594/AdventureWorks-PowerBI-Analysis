@@ -23,6 +23,19 @@ The dashboard helps answer important business questions such as:
 
 ---
 
+## 📌 Key Results
+
+| KPI | Result |
+|---|---:|
+| Total Sales | $110M |
+| Gross Profit | $13M |
+| Gross Margin | 11.43% |
+| Total Orders | 31K |
+| Sales YTD | $15.49M |
+| Sales LY | $23.86M |
+| YoY Sales Growth | $10.21M |
+| YoY Growth % | 42.79% |
+
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI**
