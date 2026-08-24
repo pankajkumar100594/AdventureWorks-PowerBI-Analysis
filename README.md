@@ -46,7 +46,7 @@ AdventureWorks-PowerBI-Analysis
 ├── screenshots
 │   ├── dashboard.png
 │   ├── product_customer_analysis.png
-│   └── dax_validation.png
+│   └── DAX_validation.png
 │
 └── documentation
     └── Project_Documentation.pdf
